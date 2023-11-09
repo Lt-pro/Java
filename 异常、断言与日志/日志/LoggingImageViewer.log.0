@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-11-09T13:23:51.078701400Z</date>
+  <millis>1699536231078</millis>
+  <nanos>701400</nanos>
+  <sequence>0</sequence>
+  <logger>com.horstmann.corejava</logger>
+  <level>FINER</level>
+  <class>ImageViewerFrame</class>
+  <method>&lt;init&gt;</method>
+  <thread>32</thread>
+  <message>ENTRY</message>
+</record>
+<record>
+  <date>2023-11-09T13:23:51.131587900Z</date>
+  <millis>1699536231131</millis>
+  <nanos>587900</nanos>
+  <sequence>1</sequence>
+  <logger>com.horstmann.corejava</logger>
+  <level>FINE</level>
+  <class>logging.LoggingImageViewer</class>
+  <method>lambda$main$0</method>
+  <thread>32</thread>
+  <message>Showing frame</message>
+</record>
+</log>
